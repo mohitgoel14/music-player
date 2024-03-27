@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  margin: 0px;
+  padding: 0px;
+  font-size: 16px;
+  color: white;
+}
+.my-app-color{
+  background-color: #0C1027;
+}
+.h-custom {
+  height: 700px;
+}
+nav img {
+  width: 60px;
+  height: 50px;
+}
+.right-nav,
+.left-nav {
+  margin: 10px 50px;
+}
